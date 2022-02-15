@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Tudor
 - 👀 I’m interested in web developing
 - 🌱 I’m currently learning ReactJs
-- 📫 How to reach me: anastasiu.tudor@gmail.com or https://anastasiu-tudor.web.app/
+- 📫 How to reach me: anastasiu.tudor@gmail.com or https://anastasiu-tudor.netlify.com/
 
 <!---
 tudor1997/tudor1997 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
