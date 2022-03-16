@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tudor
 - 👀 I’m interested in web developing
-- 🌱 I’m currently learning ReactJs
+- 🌱 I'm specialized in ReactJs
 - 📫 How to reach me: anastasiu.tudor@gmail.com or https://anastasiu-tudor.netlify.com/
 
 <!---
